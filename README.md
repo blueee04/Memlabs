@@ -1,5 +1,7 @@
 # Memlabs
 
+![](TVP_VolatilityLogo.png)
+
 Let's talk a bit about Memory Forensics over here and how volatility can be used along with a few of it's plugins.
 So Volatility specializes in analyzing the volatile memory of a system. Memory contains a wealth of information about running processes, network connections, loaded modules, and other artifacts that can be crucial in forensic investigations. Volatility allows analysts to extract and analyze this information to understand system activity, detect malware, and investigate security incidents.
 
